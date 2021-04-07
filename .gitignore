@@ -1,0 +1,9 @@
+part04-e17_cleaning_data
+part07-e01_sequence_analysis
+part08-e01_regression
+*/test
+*/tmc
+*/src/__pycache__
+*.yml
+course_config.toml
+
